@@ -45,8 +45,8 @@ footer {
 	bottom: 0;
 	color: #fff;
 
-	/* Inserisci qui sotto 
-	le tue regole, se necessario. */
+	/*Modifiche*/
+	
 }
 
 /* Sidebar */
@@ -148,4 +148,15 @@ da rimuovere una volta concluso
 
 .bi-bookmark-fill::before {
 	margin-top:34px;
+}
+
+.section {
+	display: flex;
+	flex-direction: column;
+
+}
+
+.bi-house::before {
+	padding-top: 20px;
+	align-items: center;
 }
