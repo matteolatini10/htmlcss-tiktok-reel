@@ -73,14 +73,18 @@ da rimuovere una volta concluso
 	min-width: 80px;
 	min-height: 450px;
 	border: 2px dashed #ff0;
-}
+
+
+	}
+
 
 .debug .reel-header {
 	min-height: 50px;
 	border: 2px dashed #fff;
 }
 
-/* --------------------- */
+/* modifiche*/
+/*header*/
 .tabs {
 	display:flex;
 	gap:20px;
@@ -108,4 +112,14 @@ da rimuovere una volta concluso
 	color:white;
 	padding: 9px;
 	margin-top: 5px;
+}
+
+.reaction {
+	margin-bottom: 25px;;
+}
+
+.logo {
+	width: 35px;
+	border-radius: 16px 16px 16px 16px;
+	border: 2px solid white;
 }
