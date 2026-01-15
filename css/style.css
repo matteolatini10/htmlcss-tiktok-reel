@@ -109,6 +109,7 @@ da rimuovere una volta concluso
 .bi-search::before {
 	color:white;
 	padding:17px;
+	
 }
 
 .bi-play-btn::before {
@@ -143,4 +144,8 @@ da rimuovere una volta concluso
 	margin-top: 20px;
     margin-left: 11px;
     color: white;
+}
+
+.bi-bookmark-fill::before {
+	margin-top:34px;
 }
