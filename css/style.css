@@ -56,8 +56,11 @@ footer {
 	right: 0;
 	top: 40%;
 
-	/* Inserisci qui sotto 
-	le tue regole, se necessario. */
+	/* modifiche effettuate */
+	color:white;
+	text-align: center;
+	
+	
 }
 
 /* ---------------------
@@ -114,12 +117,30 @@ da rimuovere una volta concluso
 	margin-top: 5px;
 }
 
+/*sidebar*/
 .reaction {
-	margin-bottom: 25px;;
+	margin-bottom: 25px;
+	
+	
 }
 
 .logo {
 	width: 35px;
 	border-radius: 16px 16px 16px 16px;
 	border: 2px solid white;
+}
+
+.bi-heart-fill::before {
+
+	margin-top: 20px;
+    margin-left: 11px;
+    color: white;
+	
+}
+
+.bi-chat-dots-fill::before {
+	
+	margin-top: 20px;
+    margin-left: 11px;
+    color: white;
 }
